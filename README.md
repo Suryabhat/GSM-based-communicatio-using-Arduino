@@ -1,4 +1,4 @@
-# GSM-based-communicatio-using-Arduino
+# GSM-based-communication-using-Arduino
 
 ## Overview
 This project enables GSM-based communication using an Arduino and a GSM module. The system can make calls, send SMS, receive calls, and check signal strength and battery level.
