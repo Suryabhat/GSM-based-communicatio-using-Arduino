@@ -12,7 +12,8 @@ This project enables GSM-based communication using an Arduino and a GSM module. 
 - Power Supply
 
 ## Circuit Diagram
-![Circuit Diagram](circuit_diagram/gsm_communication_circuit.png)
+![image](https://github.com/user-attachments/assets/7c930c8b-4e58-4853-beb4-fa8885e73c18)
+
 
 ## Setup and Installation
 1. Clone this repository:
